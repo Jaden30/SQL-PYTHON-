@@ -8,4 +8,6 @@ testmysql.py - Code showing how to
                   - How to populate tables in the databases
                   
                   
-inserting.py - Code showing how to insert values to the database using it as a cli tool 
+inserting.py - Code showing how to insert values to the tables in the database using it as a cli tool 
+
+updating.py - Code showing how to update values in the table in the database using it as ac cli tool  
