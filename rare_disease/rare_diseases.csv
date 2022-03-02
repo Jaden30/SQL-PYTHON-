@@ -1,0 +1,101 @@
+disease_name,gene_symbol,protein_uniprot_id
+ADULT syndrome,TP63,Q9H3D4
+Acroosteolysis-keloid-like lesions-premature aging syndrome,PDGFRB,P09619
+Alagille syndrome due to a NOTCH2 point mutation,NOTCH2,Q04721
+Alzheimer's disease 3,PSEN1,P49768
+Antley-Bixler syndrome,FGFR2,P21802
+Autosomal dominant optic atrophy plus syndrome,OPA1,O60313
+Autosomal dominant vitreoretinochoroidopathy,BEST1,O76090
+Autosomal recessive lymphoproliferative disease,CD27,P26842
+Autosomal recessive primary immunodeficiency with defective spontaneous natural killer cell cytotoxicity,FCGR3A,P08637
+Autosomal recessive spastic paraplegia type 67,PGAP1,Q75T13
+BENTA disease,CARD11,Q9BXL7
+Beare-Stevenson cutis gyrata syndrome,FGFR2,P21802
+Brachydactyly type B2,NOG,Q13253
+Bruton-type agammaglobulinemia,BTK,Q06187
+COG1-CDG,COG1,Q8WTW3
+Cardiomyopathy-hypotonia-lactic acidosis syndrome,SLC25A3,Q00325
+Cardiospondylocarpofacial syndrome,MAP3K7,O43318
+Cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome,IARS2,Q9NSE4
+Charcot-Marie-Tooth disease X-linked recessive 4,AIFM1,O95831
+Charcot-Marie-Tooth disease type 2A2,MFN2,O95140
+Charcot-Marie-Tooth disease type 2B,RAB7A,P51149
+Charcot-Marie-Tooth disease type 2R,TRIM2,Q9C040
+Combined immunodeficiency due to STK4 deficiency,STK4,Q13043
+Combined immunodeficiency due to ZAP70 deficiency,ZAP70,P43403
+Congenital analbuminemia,ALB,P02768
+Congenital insensitivity to pain with severe intellectual disability,CLTCL1,P53675
+Cornelia De Lange Syndrome 4,RAD21,O60216
+Craniorachischisis,DACT1,Q9NYF0
+"Distal myopathy, Welander type",TIA1,P31483
+Epidermolysis bullosa simplex with circinate migratory erythema,KRT5,P13647
+FGFR2-related bent bone dysplasia,FGFR2,P21802
+Familial cortical myoclonus,NOL3,O60936
+"Familial scaphocephaly syndrome, McGillivray type",FGFR2,P21802
+Gamstorp-Wohlfart syndrome,HINT1,P49773
+Glutathione synthetase deficiency without 5-oxoprolinuria,GSS,P48637
+Griscelli syndrome type 2,RAB27A,P51159
+Hemolytic anemia due to adenylate kinase deficiency,AK1,P00568
+Hemorrhagic disease due to alpha-1-antitrypsin Pittsburgh mutation,SERPINA1,P01009
+Hereditary cryohydrocytosis with normal stomatin,SLC4A1,P02730
+Hereditary pediatric BehC'et-like disease,TNFAIP3,P21580
+Hypocomplementemic urticarial vasculitis,DNASE1L3,Q13609
+Hypoinsulinemic hypoglycemia and body hemihypertrophy,AKT2,P31751
+IL21-related infantile inflammatory bowel disease,IL21,Q9HBE4
+Infantile multisystem neurologic-endocrine-pancreatic disease,PTRH2,Q9Y3E5
+Intellectual disability-facial dysmorphism syndrome due to SETD5 haploinsufficiency,SETD5,Q9C0A6
+Isolated congenital adermatoglyphia,SMARCAD1,Q9H4L7
+Jackson-Weiss syndrome,FGFR2,P21802
+Kabuki Syndrome 1,KMT2D,O14686
+Karyomegalic interstitial nephritis,FAN1,Q9Y2M0
+Keipert syndrome,GPC4,O75487
+Laurin-Sandrow syndrome,LMBR1,Q8WVP7
+Leukoencephalopathy-metaphyseal chondrodysplasia syndrome,AIFM1,O95831
+Lhermitte-Duclos disease,PTEN,P60484
+Li-Fraumeni syndrome,TP53,P04637
+Microtia,HOXA2,O43364
+"Mitochondrial DNA depletion syndrome, hepatocerebrorenal form",TWNK,Q96RR1
+Moyamoya disease with early-onset achalasia,GUCY1A1,Q02108
+Multiple epiphyseal dysplasia type 1,COMP,P49747
+Myotonia permanens,SCN4A,P35499
+Paramyotonia congenita of Von Eulenburg,SCN4A,P35499
+Periodic fever-infantile enterocolitis-autoinflammatory syndrome,NLRC4,Q9NPP4
+Pfeiffer syndrome type 2,FGFR2,P21802
+"Phocomelia, Schinzel type",WNT7A,O00755
+Primary intraosseous venous malformation,ELMO2,Q96JJ3
+Progressive myoclonic epilepsy with dystonia,TBC1D24,Q9ULP9
+Proteus syndrome,PTEN,P60484
+Proteus-like syndrome,PTEN,P60484
+Pyogenic bacterial infections due to MyD88 deficiency,MYD88,Q99836
+Severe X-linked mitochondrial encephalomyopathy,AIFM1,O95831
+Severe achondroplasia-developmental delay-acanthosis nigricans syndrome,FGFR3,P22607
+Severe early-onset axonal neuropathy due to MFN2 deficiency,MFN2,O95140
+Severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome,BCAP31,P51572
+Syndromic multisystem autoimmune disease due to Itch deficiency,ITCH,Q96J02
+T-B+ severe combined immunodeficiency due to CD45 deficiency,PTPRC,P08575
+"T-cell immunodeficiency, congenital alopecia, and nail dystrophy",FOXN1,O15353
+THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome,THOC6,Q86W42
+Toriello-Carey syndrome,DDX3X,O00571
+Woolly hair-palmoplantar keratoderma syndrome,KANK2,Q63ZY3
+"X-linked dominant chondrodysplasia, Chassaing-Lacombe type",HDAC6,Q9UBN7
+X-linked intellectual disability-hypotonia-movement disorder syndrome,DDX3X,O00571
+X-linked scapuloperoneal muscular dystrophy,FHL1,Q13642
+achondroplasia,FGFR3,P22607
+amyotrophic lateral sclerosis type 19,ERBB4,Q15303
+autoimmune lymphoproliferative syndrome type 2B,CASP8,Q14790
+autosomal dominant familial periodic fever,TNFRSF1A,P19438
+autosomal recessive congenital ichthyosis 3,ALOXE3,Q9BYJ1
+autosomal recessive limb-girdle muscular dystrophy type 2B,DYSF,O75923
+autosomal recessive limb-girdle muscular dystrophy type 2Q,PLEC,Q15149
+autosomal recessive spinocerebellar ataxia 12,WWOX,Q9NZC7
+choroid plexus carcinoma,TP53,P04637
+familial cold autoinflammatory syndrome 3,PLCG2,P16885
+hereditary spastic paraplegia 61,ARL6IP1,Q15041
+hypochondroplasia,FGFR3,P22607
+hypomyelinating leukodystrophy 3,AIMP1,Q12904
+multiple symmetric lipomatosis,MFN2,O95140
+osteosarcoma,TP53,P04637
+patterned macular dystrophy 3,MAPKAPK3,Q16644
+pityriasis rubra pilaris,CARD14,Q9BXL6
+polycystic kidney disease 1,PKD1,P98161
+tyrosinemia type III,HPD,P32754
